@@ -1,4 +1,4 @@
-# River/Covid Raid 2020
+# Covid Raid Game 2020
 creation of covid raid game to be used for reinforcemnt learning 
 
 ## Installation
